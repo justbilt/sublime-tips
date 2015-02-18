@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "duoshuo": {
-            "short_name": "your duoshuo's shortname",
+            "short_name": "justbilt",
             "theme": "default"
         }
     }
