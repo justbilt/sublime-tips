@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* SublimeTextTips 周报
+* [SublimeTextTips 周报](sublimetexttips_zhou_bao.md)
 
