@@ -2,5 +2,10 @@
     "plugins": [
         "duoshuo"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "duoshuo": {
+            "short_name": "your duoshuo's shortname",
+            "theme": "default"
+        }
+    }
 }
