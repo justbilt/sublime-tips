@@ -7,4 +7,5 @@
    * [Sublime 大小写转换, WordPress, Fizzy主题等!](weekly_15_01_29.md)
    * [使用标签快速包装内容](weekly_15_01_23.md)
    * [你能够在Sublime中进行行泡泡吗?](weekly_15_01_15.md)
+   * Sublime小技巧:选中多行
 
